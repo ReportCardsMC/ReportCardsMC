@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reportcardsmc&label=Profile%20views&color=0e75b6&style=flat-square" alt="reportcardsmc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reportcardsmc" target="blank"><img src="https://img.shields.io/twitter/follow/reportcardsmc?logo=twitter&style=for-the-badge" alt="reportcardsmc" /></a> </p>
 
-- 🔭 I’m currently working on [Drill](https://discord.io/drill)
+- 🔭 I’m currently working on Star
 
-- 🌱 I’m currently learning **Java, C#, and Typescript**
+- 🌱 I’m currently learning **Kotlin, Java, C#, and Typescript**
 
 - 🤝 I’m looking for help with [Java (SKNoise)](https://github.com/ReportCardsMC/SKNoise)
 
