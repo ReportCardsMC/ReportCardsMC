@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Star
 
-- 🌱 I’m currently learning **Kotlin, Java, C#, and Typescript**
+- 🌱 I’m currently using **Kotlin, Java, and Typescript**
 
 - 🤝 I’m looking for help with [Java (SKNoise)](https://github.com/ReportCardsMC/SKNoise)
 
