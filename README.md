@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eliza (ReportCards)</h1>
-<h3 align="center">Software Engineer @ SLG (Minehut)</h3>
 
 <p align="center"><a href="https://discord.com/users/150729679962243075"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/150729679962243075"></a></p>
 
