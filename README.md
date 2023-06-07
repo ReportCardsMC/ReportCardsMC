@@ -1,5 +1,5 @@
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ReportCardsMC&show_icons=true"/>](https://github.com/ReportCardsMC/)
+[<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=ReportCardsMC&show_icons=true"/>](https://github.com/ReportCardsMC/)
 <h1 align="center">👋 Hi, I'm Eliza</h1>
 <a href="https://www.linkedin.com/in/elizahouston/">
   <img align="left" alt="Eliza's Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[<img align="right" width="400" src="https://lanyard-profile-readme.vercel.app/api/150729679962243075"/>](https://discord.com/users/15072967996224307)
+[<img align="right" width="350" src="https://lanyard-profile-readme.vercel.app/api/150729679962243075"/>](https://discord.com/users/15072967996224307)
 
 <p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
