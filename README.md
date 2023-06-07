@@ -1,8 +1,8 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ReportCardsMC&show_icons=true"/>](https://github.com/ReportCardsMC/)
-<h3 align="center">👋 Hi, I'm Eliza</h3>
 <h6 align="center" color="gray">she/they</h6>
-<hr>
+<h1 align="center">👋 Hi, I'm Eliza</h1>
+
 <a href="https://www.linkedin.com/in/elizahouston/">
   <img align="left" alt="Eliza's Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
