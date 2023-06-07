@@ -33,7 +33,7 @@
 <h3 align="left">About Me:</h3>
 
 <p align="left">
-  Hello! I'm Eliza, I'm a trans woman that has a huge passion for software engineering and wishes to continue it on as a career.
+  Hello! I'm Eliza, I'm a trans woman that has a huge passion for software engineering and wish to continue it on as a career.
   I've been programming for over 5 years now, mostly working with back-end services. However now I've started some courses to get better at
   front-end/full-stack development using React, and have been doing well with the courses so far. Another big passion of mine is bowling
   I've been bowling for a while now and average ~180 within leagues, however I want to work on improving and possibly going to bigger tournaments.
