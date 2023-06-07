@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://github.com/ReportCardsMC/lime">Lime</a>: Discord bot based on moderation, with a focus on ease of use.<br>
   <a href="https://discord.starmc.gg/">StarMC</a>: Minecraft network with focus on unique features within survival.<br>
-  <a href="https://github.com/ReportCardsMC/logr">Logr</a>: Track time spent on projects easily, with an easy to use<br>rest API<br>
+  <a href="https://github.com/ReportCardsMC/logr">Logr</a>: Track time spent on projects easily, with an easy to <br>use rest API<br>
 </p>
 
 <h3 align="left">About Me:</h3>
