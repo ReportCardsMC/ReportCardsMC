@@ -1,7 +1,7 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ReportCardsMC&show_icons=true"/>](https://github.com/ReportCardsMC/)
-<h6 align="center" color="gray">she/they</h6>
-<h1 align="center">👋 Hi, I'm Eliza</h1>
+<h6 align="center" color="gray">they/she</h6>
+<h1 align="center">👋 Hi, I'm Zora</h1>
 
 <a href="https://www.linkedin.com/in/elizahouston/">
   <img align="left" alt="Eliza's Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
