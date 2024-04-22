@@ -27,16 +27,16 @@
 <h3 align="left">Current Projects:</h3>
 
 <p align="left">
-  <a href="https://github.com/ReportCardsMC/lime">Lime</a>: Discord bot based on moderation, with a focus on ease of use.<br>
-  <a href="https://starmc.gg/">StarMC</a>: Minecraft network with focus on unique features within survival.<br>
-  <a href="https://github.com/ReportCardsMC/logr">Logr</a>: Track time spent on projects easily, with an easy to use rest API<br>
+  <a href="/">Drill</a>: Prison Minecraft server I own, made in Minestom<br>
+  <a href="https://github.com/mcparadise-network">MC Paradise</a>: An RPG Minecraft server for 1.20.4 that I volunteer to develop for<br>
+  <a href="https://github.com/QuarryMC/">Quarry</a>: Prison Minecraft server for 1.20 I'm a developer for, in which I created the prison core<br>
 </p>
 
 <h3 align="left">About Me:</h3>
 
 <p align="left">
   I'm a woman that has a huge passion for software engineering and wish to continue it as a career.
-  I've been programming for over 5 years now, mostly working with back-end services. However now I've started some courses to get better at
+  I've been programming for over 7 years now, mostly working with back-end services. However now I've started some courses to get better at
   front-end/full-stack development using React, and have been doing well with the courses so far. Another big passion of mine is bowling
   I've been bowling for a while now and average ~180 within leagues, however I want to work on improving and possibly going to bigger tournaments.
 </p>
